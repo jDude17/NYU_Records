@@ -20,3 +20,13 @@ To run the DApp locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/university-records-dapp.git
    cd university-records-dapp
+
+
+
+We have 2 simplified tuorials for you to follow! 
+
+"Building a Counter Dapp"
+https://docs.google.com/document/d/1dfq4TJgrmtIGMctwEUkzsdZAEjpqPGeImMC1ERZp4fc/edit
+
+"Building a Board Contract"
+https://docs.google.com/document/d/1w43GV_yb2o-PkIbxZcpGh32ZVj8o_47QyMZe8M9L-fY/edit
